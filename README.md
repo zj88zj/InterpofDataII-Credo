@@ -19,6 +19,7 @@ We want to establish connections between subgroups of the data.
 
 <h3>Tasks:</h3>
 <ol>
+<li>Exploratory Data Analysis</li>
 <li>Biclustering and Grouping</li>
 <ul>
 <li>Clustering with PAM</li>
