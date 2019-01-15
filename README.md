@@ -27,7 +27,7 @@ We want to establish connections between subgroups of the data.
 <li>FABIA:Factor Analysis for Bicluster Acquisition, is a biclustering method based on the Factor Analysis Model.</li>
 <li>Isa2:a biclustering algorithm which classifies simultaneously the rows and columns of an input matrix into biclusters.</li></ul></li>
 </ul>
-
 <li>Networks</li>
+<li>GLM</li>
 </ol>
 
