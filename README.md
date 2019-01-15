@@ -26,6 +26,11 @@ to purchase from minority owned businesses in the 17th month. The data we focuse
 <li>Isa2:a biclustering algorithm which classifies simultaneously the rows and columns of an input matrix into biclusters.</li></ul></li>
 </ul>
 <li>Bayesian Networks</li>
+  <ul>
+    <li>Maximum-minimum Parent-Child method</li>
+    <li>Grow-Shrink Markov Blanket method</li>
+    <li>Hill Climber method</li>
+  </ul>
 <li>GLM</li>
 </ol>
 </p>
