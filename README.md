@@ -1,5 +1,4 @@
 <h2>Predicting Credo in J&J Research and Development Purchase Orders</h2>  
-<p> ---- Interpretation of Data II course project</p>
 <h3><a href="https://www.dropbox.com/s/jf6ojrqx18jaqyf/IntpofDataII-Report.pdf?dl=0">>>Report Link<<</a></h3>
 <h3>Keywords:</h3>
 <p>Exploratory Data Analysis, Clustering, Factor Analysis, Bayesian Network, Generalized Linear Model</p>
