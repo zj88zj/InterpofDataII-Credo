@@ -13,7 +13,8 @@ to purchase from minority owned businesses in the 17th month. The data we focuse
 <h3>Variable Groups:</h3>
 <img width="350" alt="screen shot 2019-01-14 at 6 15 12 pm" src="https://user-images.githubusercontent.com/32077985/51147553-9a6b6a00-1828-11e9-8736-86ffcbe7d851.png">
 
-<h3>Tasks:</h3>
+<h3>Processes:</h3>
+<p>
 <ol>
 <li>Exploratory Data Analysis</li>
 <li>Biclustering and Grouping</li>
@@ -27,4 +28,4 @@ to purchase from minority owned businesses in the 17th month. The data we focuse
 <li>Bayesian Networks</li>
 <li>GLM</li>
 </ol>
-
+</p>
