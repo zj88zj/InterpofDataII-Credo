@@ -2,9 +2,9 @@
 <p> ---- Interpretation of Data II course project</p>
 <h3><a href="https://www.dropbox.com/s/jf6ojrqx18jaqyf/IntpofDataII-Report.pdf?dl=0">>>Report Link<<</a></h3>
 <h3>Keywords:</h3>
-<p></p>
+<p>Exploratory Data Analysis, Clustering, Bayesian Network, Generalized Linear Model</p>
 <h3>Packages:</h3>
-<p></p>
+<p>dplyr, dlookr, bnlearn, glmnet, </p>
 <h3>Summary:</h3>
 <p>Used the dataset provided by J&J of the purchase orders from the previous 16 months to predict if supervisors are likely
 to purchase from minority owned businesses in the 17th month. We focused on the CLPS (Consulting Labor Professional Services) area data. The CLPS dataset is a collection of purchase 907,408 orders specifically in research and development. 
