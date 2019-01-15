@@ -4,14 +4,10 @@
 <h3>Keywords:</h3>
 <p>Exploratory Data Analysis, Clustering, Bayesian Network, Generalized Linear Model</p>
 <h3>Packages:</h3>
-<p>dplyr, dlookr, bnlearn, glmnet, </p>
+<p>dplyr, dlookr, bnlearn, glmnet, stats, utils, datasets</p>
 <h3>Summary:</h3>
-<p>Used the dataset provided by J&J of the purchase orders from the previous 16 months to predict if supervisors are likely
-to purchase from minority owned businesses in the 17th month. We focused on the CLPS (Consulting Labor Professional Services) area data. The CLPS dataset is a collection of purchase 907,408 orders specifically in research and development. 
-Analyzed data with Bayesian Networks and GLMnet models.
-We want to establish connections between subgroups of the data.
-.Over Time
-.Emphasis in W/M and Small Business
+<p>We Used the dataset provided by J&J of the purchase orders from the previous 16 months to predict if supervisors are likely
+to purchase from minority owned businesses in the 17th month. The data we focused on is the CLPS (Consulting Labor Professional Services) area data. The CLPS dataset is a collection of purchase 907,408 orders specifically in research and development. Dataset was analyzed with Bayesian Networks and GLMnet models.We wanted to establish connections between subgroups of the data over time and emphasis in small businesses.
 </p>
 
 <h3>Variable Groups:</h3>
